@@ -1,4 +1,3 @@
-参考：https://github.com/NuPlay/ExpandableText
 <h1 align="center"> ExpandableText 😎 (SwiftUI)</p>
 <p align="center">
     <a href="https://github.com/NuPlay/ExpandableText/releases/latest">
