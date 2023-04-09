@@ -2,7 +2,7 @@
 // ExpandableText.swift
 //
 //
-//  Created by 이웅재 on 2021/10/12.
+//  Created by shixm on 2021/10/12.
 //
 
 import SwiftUI
